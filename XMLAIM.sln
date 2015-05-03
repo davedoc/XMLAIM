@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 10.00
+# Visual Studio 2008
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "XMLAIM", "XMLAIM\XMLAIM.csproj", "{58E5A4FF-FED3-4B85-AA21-EFDBA77645D0}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{40838E39-81A1-4F16-97CE-2132A19A50E0}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		cmdline|Any CPU = cmdline|Any CPU
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{58E5A4FF-FED3-4B85-AA21-EFDBA77645D0}.cmdline|Any CPU.ActiveCfg = cmdline|Any CPU
+		{58E5A4FF-FED3-4B85-AA21-EFDBA77645D0}.cmdline|Any CPU.Build.0 = cmdline|Any CPU
+		{58E5A4FF-FED3-4B85-AA21-EFDBA77645D0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{58E5A4FF-FED3-4B85-AA21-EFDBA77645D0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{58E5A4FF-FED3-4B85-AA21-EFDBA77645D0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{58E5A4FF-FED3-4B85-AA21-EFDBA77645D0}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

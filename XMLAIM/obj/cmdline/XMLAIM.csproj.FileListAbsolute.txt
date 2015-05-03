@@ -1,0 +1,2 @@
+D:\cm\BM_BUILD_2\Tools\XMLAIM\XMLAIM\bin\cmdline\XMLAIM.exe.config
+D:\cm\BM_BUILD_2\Tools\FASTXMLAIM\XMLAIM\bin\cmdline\XMLAIM.exe.config
